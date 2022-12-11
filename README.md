@@ -22,7 +22,7 @@
 - [@amirhossein-afi](https://github.com/amirhossein-afi)
 
 <br>
-<h2 align="center">جواب سوال های کوئرا:</h2>
+<h2 align="center">جواب سوالات برنامه نویسی کوئرا:</h2>
 <table align="center" dir="rtl">
   <tr>
     <th>سوال</th>
