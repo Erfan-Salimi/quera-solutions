@@ -683,6 +683,11 @@
     <td><a href="https://quera.org/problemset/2439/">مسابقه‌ی آسان</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87%20%DB%8C%20%D8%A2%D8%B3%D8%A7%D9%86">پاسخ</a></td>
     <td>مسابقه</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr> 
   <tr>
     <td><a href="https://quera.org/problemset/66867/">باغچه رز</a></td>
@@ -810,9 +815,9 @@
     <td>دانشگاهی</td>
   </tr> 
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr> 
   <tr> 
     <td><a href="https://quera.org/problemset/129728/">تَخَطّی‌گَری</a></td>
