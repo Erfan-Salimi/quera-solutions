@@ -430,8 +430,103 @@
     <td>مسابقه</td>
   </tr> 
   <tr>
-    <td><a href=""></a></td>
-    <td><a href="">پاسخ</a></td>
+    <td><a href="https://quera.org/problemset/10166/">سیکل گرفتن در برره</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%B3%DB%8C%DA%A9%D9%84%20%DA%AF%D8%B1%D9%81%D8%AA%D9%86%20%D8%AF%D8%B1%20%D8%A8%D8%B1%D8%B1%D9%87">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/10163/">تیم ملی نخودخوری در برره</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%AA%DB%8C%D9%85%20%D9%85%D9%84%DB%8C%20%D9%86%D8%AE%D9%88%D8%AF%20%D8%AE%D9%88%D8%B1%DB%8C%20%D8%AF%D8%B1%20%D8%A8%D8%B1%D8%B1%D9%87">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/10162/">روز آزادی بیان در برره</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%B1%D9%88%D8%B2%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%D9%86%20%D8%AF%D8%B1%20%D8%A8%D8%B1%D8%B1%D9%87">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/9595/">بولوف الکی!</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%A8%D9%88%D9%84%D9%88%D9%81%20%D8%A7%D9%84%DA%A9%DB%8C!">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/9109/">مجید و ماژیک‌هاش</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D9%85%D8%AC%DB%8C%D8%AF%20%D9%88%20%D9%85%D8%A7%DA%98%DB%8C%DA%A9%20%D9%87%D8%A7%D8%B4">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/9021/">وسیله کمک آموزشی</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D9%88%D8%B3%DB%8C%D9%84%D9%87%20%DA%A9%D9%85%DA%A9%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/8938/">اسنپ در شکرستان</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%A7%D8%B3%D9%86%D9%BE%20%D8%AF%D8%B1%20%D8%B4%DA%A9%D8%B1%D8%B3%D8%AA%D8%A7%D9%86">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/8901/">لیوان بازی</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D9%84%DB%8C%D9%88%D8%A7%D9%86%20%D8%A8%D8%A7%D8%B2%DB%8C">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/8838/">کمک به کاپی</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%DA%A9%D9%85%DA%A9%20%D8%A8%D9%87%20%DA%A9%D8%A7%D9%BE%DB%8C">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/7998/">صفحه‌کلید انتخاباتی</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%B5%D9%81%D8%AD%D9%87%20%DA%A9%D9%84%DB%8C%D8%AF%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/7609/">نامه‌ی بد</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D9%86%D8%A7%D9%85%D9%87%20%DB%8C%20%D8%A8%D8%AF">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/6580/">تعمیر دیوار</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%AA%D8%B9%D9%85%DB%8C%D8%B1%20%D8%AF%DB%8C%D9%88%D8%A7%D8%B1">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/6313/">TAX</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/TAX">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/6193/">مسئله‌ی امنیتی</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D9%85%D8%B3%D8%A6%D9%84%D9%87%20%DB%8C%20%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/6082/">آسمان شکر آباد</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%A2%D8%B3%D9%85%D8%A7%D9%86%20%D8%B4%DA%A9%D8%B1%20%D8%A2%D8%A8%D8%A7%D8%AF">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/4067/">سراب</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%B3%D8%B1%D8%A7%D8%A8">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/4066/">پیشگویی خر</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D9%BE%DB%8C%D8%B4%DA%AF%D9%88%DB%8C%DB%8C%20%D8%AE%D8%B1">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/4065/">خر در چمن فراوونه!!</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%AE%D8%B1%20%D8%AF%D8%B1%20%DA%86%D9%85%D9%86%20%D9%81%D8%B1%D8%A7%D9%88%D9%88%D9%86%D9%87!">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/3558/">ارسال سنگین</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%20%D8%B3%D9%86%DA%AF%DB%8C%D9%86">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/3540/">گردو شکستم</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%DA%AF%D8%B1%D8%AF%D9%88%20%D8%B4%DA%A9%D8%B3%D8%AA%D9%85">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
@@ -466,112 +561,17 @@
   </tr> 
   <tr>
     <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
     <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
     <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
