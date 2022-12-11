@@ -1,10 +1,12 @@
-import math
+def hcfnaive(n1, n2):
+    a = n1
+    b = n2
+    if (b == 0):
+        return a
+    else:
+        return hcfnaive(b, a % b)
 
-n = input().split()
-n1 = int(n[0])
-n2 = int(n[1])
+n1 = int(input())
+n2 = int(input())
 
-bmm = math.gcd(n1, n2)
-kmm = int((n1*n2) / bmm)
-
-print(bmm, kmm)
+print(hcfnaive(n1, n2))
