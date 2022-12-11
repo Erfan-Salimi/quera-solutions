@@ -330,8 +330,103 @@
     <td>مسابقه</td>
   </tr> 
   <tr>
-    <td><a href=""></a></td>
-    <td><a href="">پاسخ</a></td>
+    <td><a href="https://quera.org/problemset/31021/">سلام سلام خداحافظ</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%B3%D9%84%D8%A7%D9%85%20%D8%B3%D9%84%D8%A7%D9%85%20%D8%AE%D8%AF%D8%A7%D8%AD%D8%A7%D9%81%D8%B8">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/31020/">سپیده</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%B3%D9%BE%DB%8C%D8%AF%D9%87">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/28948/">بتایپ</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%A8%D8%AA%D8%A7%DB%8C%D9%BE">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/28947/">ام‌سین</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%A7%D9%85%20%D8%B3%DB%8C%D9%86">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/26651/">سوال نفس‌گیر</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%B3%D9%88%D8%A7%D9%84%20%D9%86%D9%81%D8%B3%20%DA%AF%DB%8C%D8%B1">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/20256/">رژیم سخت</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%B1%DA%98%DB%8C%D9%85%20%D8%B3%D8%AE%D8%AA">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/20249/">مربّاها و مشکلات اقتصادی</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D9%85%D8%B1%D8%A8%D8%A7%D9%87%D8%A7%20%D9%88%20%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA%20%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/17902/">رمز</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%B1%D9%85%D8%B2">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/17675/">رشته فیبوناچی</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%B1%D8%B4%D8%AA%D9%87%20%D9%81%DB%8C%D8%A8%D9%88%D9%86%D8%A7%DA%86%DB%8C">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/17245/">تکسلنگ</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%AA%DA%A9%D8%B3%D9%84%D9%86%DA%AF">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/17244/">شارژ موبایل</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%B4%D8%A7%D8%B1%DA%98%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/15125/">کادوی پوپک‌پسند</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%DA%A9%D8%A7%D8%AF%D9%88%DB%8C%20%D9%BE%D9%88%D9%BE%DA%A9%20%D9%BE%D8%B3%D9%86%D8%AF">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/14581/">کِوین و قدرت شالاپ</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%DA%A9%D9%88%DB%8C%D9%86%20%D9%88%20%D9%82%D8%AF%D8%B1%D8%AA%20%D8%B4%D8%A7%D9%84%D8%A7%D9%BE">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/14580/">باب و کلید تلویزیون</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%A8%D8%A7%D8%A8%20%D9%88%20%DA%A9%D9%84%DB%8C%D8%AF%20%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/10636/">کارمند زیادی</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%DA%A9%D8%A7%D8%B1%D9%85%D9%86%D8%AF%20%D8%B2%DB%8C%D8%A7%D8%AF%DB%8C">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/10327/">کدتخفیف</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%DA%A9%D8%AF%D8%AA%D8%AE%D9%81%DB%8C%D9%81">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/10326/">استارت-آپ باکلاس</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA-%D8%A2%D9%BE%20%D8%A8%D8%A7%DA%A9%D9%84%D8%A7%D8%B3">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/10325/">همایش زندگی بهتر</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D9%87%D9%85%D8%A7%DB%8C%D8%B4%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A8%D9%87%D8%AA%D8%B1">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/10231/">خُب باقر سرما خورده</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%AE%D8%A8%20%D8%A8%D8%A7%D9%82%D8%B1%20%D8%B3%D8%B1%D9%85%D8%A7%20%D8%AE%D9%88%D8%B1%D8%AF%D9%87">پاسخ</a></td>
+    <td>مسابقه</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/10230/">مشق امشب باقر</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D9%85%D8%B4%D9%82%20%D8%A7%D9%85%D8%B4%D8%A8%20%D8%A8%D8%A7%D9%82%D8%B1">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
@@ -367,101 +462,6 @@
   <tr>
     <td><a href=""></a></td>
     <td><a href="">پاسخ</a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href="">پاسخ</a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
-    <td>مسابقه</td>
-  </tr> 
-  <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
