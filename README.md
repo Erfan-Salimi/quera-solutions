@@ -1,4 +1,8 @@
+<p align="center">
+  <a href="https://quera.org/"><img src="./quera-logo.png" width="180" title="کوئرا - حل سوالات برنامه نویسی"></a>
+</p>
 
+<br>
 <div dir="rtl">
   <h1>حل سوالات برنامه نویسی کوئرا</h1>
 </div>
