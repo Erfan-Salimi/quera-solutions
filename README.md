@@ -103,7 +103,7 @@
   </tr> 
   <tr>
     <td><a href="https://quera.org/problemset/140038/">آنلاین</a></td>
-    <td><a href="[https://quera.org/problemset/140038/](https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86)">پاسخ</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
