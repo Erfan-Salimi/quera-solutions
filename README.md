@@ -808,11 +808,70 @@
     <td><a href="https://quera.org/problemset/280/">اعداد فیثاغورثی</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/University/%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%20%D9%81%DB%8C%D8%AB%D8%A7%D8%BA%D9%88%D8%B1%D8%AB%DB%8C">پاسخ</a></td>
     <td>دانشگاهی</td>
-  </tr>
+  </tr> 
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr> 
+  <tr> 
+    <td><a href="https://quera.org/problemset/129728/">تَخَطّی‌گَری</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Technology/%D8%AA%D8%AE%D8%B7%DB%8C%20%DA%AF%D8%B1%DB%8C">پاسخ</a></td>
+    <td>تکنولوژی</td>
+  </tr> 
   <tr>
     <td><a href=""></a></td>
     <td><a href="">پاسخ</a></td>
-    <td>مسابقه</td>
+    <td>تکنولوژی</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/129726/">مُجَزا</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Technology/%D9%85%D8%AC%D8%B2%D8%A7">پاسخ</a></td>
+    <td>تکنولوژی</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/125316/">اکتشاف - تحلیل بیمه ۱</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Technology/%D8%A7%DA%A9%D8%AA%D8%B4%D8%A7%D9%81%20-%20%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%A8%DB%8C%D9%85%D9%87">پاسخ</a></td>
+    <td>تکنولوژی</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/102250/">پیدایِش!</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Technology/%D9%BE%DB%8C%D8%AF%D8%A7%DB%8C%D8%B4">پاسخ</a></td>
+    <td>تکنولوژی</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/102248/">مقایسه‌گر</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Technology/%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87%20%DA%AF%D8%B1">پاسخ</a></td>
+    <td>تکنولوژی</td>
+  </tr> 
+    <td><a href="https://quera.org/problemset/99414/">شغل‌ جدید</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Technology/%D8%B4%D8%BA%D9%84%20%D8%AC%D8%AF%DB%8C%D8%AF">پاسخ</a></td>
+    <td>تکنولوژی</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/87176/">بازی تفاضل</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Technology/%D8%A8%D8%A7%D8%B2%DB%8C%20%D8%AA%D9%81%D8%A7%D8%B6%D9%84">پاسخ</a></td>
+    <td>تکنولوژی</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/83360/">نظریه ریسمان</a></td>
+    <td><a href="">پاسخ</a></td>
+    <td>تکنولوژی</td>
+  </tr> 
+  <tr>
+    <td><a href="https://quera.org/problemset/60134/">شطرنج میوه‌ای</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Technology/%D8%B4%D8%B7%D8%B1%D9%86%D8%AC%20%D9%85%DB%8C%D9%88%D9%87%20%D8%A7%DB%8C">پاسخ</a></td>
+    <td>تکنولوژی</td>
+  </tr> 
+  <tr> 
+    <td><a href="https://quera.org/problemset/33043/">صفحه‌ی پاسخگو</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Technology/%D8%B5%D9%81%D8%AD%D9%87%20%DB%8C%20%D9%BE%D8%A7%D8%B3%D8%AE%DA%AF%D9%88">پاسخ</a></td>
+    <td>تکنولوژی</td>
+  </tr> 
+  <tr> 
+    <td><a href="https://quera.org/problemset/21205/">ثبت‌نام</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Technology/%D8%AB%D8%A8%D8%AA%20%D9%86%D8%A7%D9%85">پاسخ</a></td>
+    <td>تکنولوژی</td>
   </tr>
 </table>
 <br>
