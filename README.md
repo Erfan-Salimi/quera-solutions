@@ -752,69 +752,64 @@
   <tr>
     <td><a href="https://quera.org/problemset/595/">مثلث خیام</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/University/%D9%85%D8%AB%D9%84%D8%AB%20%D8%AE%DB%8C%D8%A7%D9%85">پاسخ</a></td>
-    <td>مسابقه</td>
+    <td>دانشگاهی</td>
   </tr> 
   <tr>
     <td><a href="https://quera.org/problemset/594/">مبنا</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/University/%D9%85%D8%A8%D9%86%D8%A7">پاسخ</a></td>
-    <td>مسابقه</td>
+    <td>دانشگاهی</td>
   </tr>
-    <tr>
-    <td><a href=""></a></td>
-    <td><a href="">پاسخ</a></td>
-    <td>مسابقه</td>
-  </tr>
-    <tr>
+  <tr>
     <td><a href="https://quera.org/problemset/593/">یافتن عدد اول</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/University/%DB%8C%D8%A7%D9%81%D8%AA%D9%86%20%D8%B9%D8%AF%D8%AF%20%D8%A7%D9%88%D9%84">پاسخ</a></td>
-    <td>مسابقه</td>
+    <td>دانشگاهی</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://quera.org/problemset/591/">چاپ مربع</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/University/%DA%86%D8%A7%D9%BE%20%D9%85%D8%B1%D8%A8%D8%B9">پاسخ</a></td>
-    <td>مسابقه</td>
+    <td>دانشگاهی</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://quera.org/problemset/590/">ب.م.م و ک.م.م</a></td>
     <td><a href="">پاسخ</a></td>
-    <td>مسابقه</td>
+    <td>دانشگاهی</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://quera.org/problemset/589/">فاکتوریل</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/University/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1%DB%8C%D9%84">پاسخ</a></td>
-    <td>مسابقه</td>
+    <td>دانشگاهی</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://quera.org/problemset/588/">ماکزیمم</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/University/%D9%85%D8%A7%DA%A9%D8%B2%DB%8C%D9%85%D9%85">پاسخ</a></td>
-    <td>مسابقه</td>
+    <td>دانشگاهی</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://quera.org/problemset/305/">ب.م.م</a></td>
     <td><a href="">پاسخ</a></td>
-    <td>مسابقه</td>
+    <td>دانشگاهی</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://quera.org/problemset/293/">اعداد اول</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/University/%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%20%D8%A7%D9%88%D9%84">پاسخ</a></td>
-    <td>مسابقه</td>
+    <td>دانشگاهی</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://quera.org/problemset/283/">مربع توخالی</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/University/%D9%85%D8%B1%D8%A8%D8%B9%20%D8%AA%D9%88%D8%AE%D8%A7%D9%84%DB%8C">پاسخ</a></td>
-    <td>مسابقه</td>
+    <td>دانشگاهی</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://quera.org/problemset/282/">کامل بودن یا نبودن</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/University/%DA%A9%D8%A7%D9%85%D9%84%20%D8%A8%D9%88%D8%AF%D9%86%20%DB%8C%D8%A7%20%D9%86%D8%A8%D9%88%D8%AF%D9%86">پاسخ</a></td>
-    <td>مسابقه</td>
+    <td>دانشگاهی</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://quera.org/problemset/280/">اعداد فیثاغورثی</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/University/%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%20%D9%81%DB%8C%D8%AB%D8%A7%D8%BA%D9%88%D8%B1%D8%AB%DB%8C">پاسخ</a></td>
-    <td>مسابقه</td>
+    <td>دانشگاهی</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href=""></a></td>
     <td><a href="">پاسخ</a></td>
     <td>مسابقه</td>
