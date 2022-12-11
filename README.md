@@ -857,11 +857,6 @@
     <td>تکنولوژی</td>
   </tr> 
   <tr>
-    <td><a href=""></a></td>
-    <td><a href="">پاسخ</a></td>
-    <td>تکنولوژی</td>
-  </tr> 
-  <tr>
     <td><a href="https://quera.org/problemset/129726/">مُجَزا</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Technology/%D9%85%D8%AC%D8%B2%D8%A7">پاسخ</a></td>
     <td>تکنولوژی</td>
