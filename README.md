@@ -230,38 +230,38 @@
     <td>مسابقه</td>
   </tr> 
   <tr>
-    <td><a href=""></a></td>
-    <td><a href="">پاسخ</a></td>
+    <td><a href="https://quera.org/problemset/72878/">الاغ گاونما</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%A7%D9%84%D8%A7%D8%BA%20%DA%AF%D8%A7%D9%88%D9%86%D9%85%D8%A7">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
-    <td><a href=""></a></td>
-    <td><a href="">پاسخ</a></td>
+    <td><a href="https://quera.org/problemset/72877/">پشمال آقا</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D9%BE%D8%B4%D9%85%D8%A7%D9%84%20%D8%A2%D9%82%D8%A7">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
-    <td><a href=""></a></td>
-    <td><a href="">پاسخ</a></td>
+    <td><a href="https://quera.org/problemset/72876/">غُل‌بانو و دوقلوهایش</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%BA%D9%84%20%D8%A8%D8%A7%D9%86%D9%88%20%D9%88%20%D8%AF%D9%88%D9%82%D9%84%D9%88%D9%87%D8%A7%DB%8C%D8%B4">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
-    <td><a href=""></a></td>
-    <td><a href="">پاسخ</a></td>
+    <td><a href="https://quera.org/problemset/72875/">جوج</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%AC%D9%88%D8%AC">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
-    <td><a href=""></a></td>
-    <td><a href="">پاسخ</a></td>
+    <td><a href="https://quera.org/problemset/72874/">فرمانده‌ی بازنشسته</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87%20%D8%A8%D8%A7%D8%B2%D9%86%D8%B4%D8%B3%D8%AA%D9%87">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
-    <td><a href=""></a></td>
-    <td><a href="">پاسخ</a></td>
+    <td><a href="https://quera.org/problemset/69903/">داستان زندگی من</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D9%85%D9%86">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
-    <td><a href=""></a></td>
-    <td><a href="">پاسخ</a></td>
+    <td><a href="https://quera.org/problemset/64434/">چاپگر</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/%DA%86%D8%A7%D9%BE%DA%AF%D8%B1">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
