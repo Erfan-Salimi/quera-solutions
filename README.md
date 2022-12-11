@@ -26,7 +26,7 @@
 <table align="center" dir="rtl">
   <tr>
     <th>سوال</th>
-    <th>پاسخ</th>
+    <th>راه حــل</th>
     <th>دسته بندی</th>
   </tr>
   <tr>
