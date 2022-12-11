@@ -23,15 +23,15 @@
 
 <br>
 <h2 align="center">جواب سوال های کوئرا:</h2>
-<table align="center">
+<table align="center" dir="rtl">
   <tr>
     <th>سوال</th>
     <th>پاسخ</th>
     <th>دسته بندی</th>
   </tr>
   <tr>
-    <td><a href=""></a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://quera.org/problemset/140028/">۲ ۲ ای</a></td>
+    <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/Contest/2%202%20%D8%A7%DB%8C">پاسخ</a></td>
     <td>مسابقه</td>
   </tr> 
   <tr>
