@@ -912,5 +912,5 @@
 <p>برای ارتباط با ما میتوانید به <a href="https://www.mrpy.ir">سایت مسترپای</a> مراجعه کنید</p>
 
 <p align="center">
-  <a href="https://www.mrpy.ir"><img src="./new-logo.png" width="350" title="مسترپای"></a>
+  <a href="https://www.mrpy.ir"><img src="./new-logo.png" width="250" title="مسترپای"></a>
 </p>
