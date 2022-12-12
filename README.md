@@ -787,11 +787,6 @@
     <td>دانشگاهی</td>
   </tr>
   <tr>
-    <td><a href="https://quera.org/problemset/590/">ب.م.م و ک.م.م</a></td>
-    <td><a href="">Code</a></td>
-    <td>دانشگاهی</td>
-  </tr>
-  <tr>
     <td><a href="https://quera.org/problemset/589/">فاکتوریل</a></td>
     <td><a href="https://github.com/Erfan-Salimi/quera-solutions/tree/master/University/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1%DB%8C%D9%84">Code</a></td>
     <td>دانشگاهی</td>
